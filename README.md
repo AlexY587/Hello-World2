@@ -1,4 +1,4 @@
-# Hello-World2.github.io
+# Hello-World2
 second Hello World
 List
 
