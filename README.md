@@ -13,5 +13,5 @@ Coding
 ---
 list
 - [] test1
-- [] test2
+- [x] test2
 - [] test3
